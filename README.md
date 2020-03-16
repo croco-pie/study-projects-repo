@@ -1,2 +1,2 @@
 # study-projects-repo
-For study projects.
+For study projects (including stepik.org)
